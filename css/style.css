@@ -1,0 +1,12 @@
+#logo_row {
+  background : white;
+}
+
+#branding {
+  overflow: hidden;
+  padding: 0px;
+  position: relative;
+  color : blue;
+  background-color: white;
+}
+

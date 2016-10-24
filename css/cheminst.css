@@ -1,0 +1,36 @@
+#logo_row {
+  background : white;
+}
+
+#branding {
+  overflow: hidden;
+  padding: 0px;
+  position: relative;
+}
+
+#branding h1.page-title {
+  font-size : 23px;
+  padding: 0px;
+  padding-left : 20px;
+}
+
+div.add-or-remove-shortcuts {
+  padding-top : 12px;
+}
+
+div.breadcrumb a:hover {
+  color : rgb(54,41,154);
+  text-decoration: underline;
+}
+
+div.breadcrumb a {
+  color : rgb(86,118,187);
+}
+
+fieldset {
+  box-shadow : none;
+}
+
+.crm-container fieldset {
+  border-top : 2px solid rgb(86,118,187);
+}
