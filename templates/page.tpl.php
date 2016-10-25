@@ -16,7 +16,7 @@
 			</a>
 		<?php endif; ?>
 	</td>
-	<td>
+	<td style='text-align:right'>
 		<?php print $breadcrumb; ?>
 	</td>
 	</tr></table>
